@@ -2,3 +2,4 @@ Flask==2.2.2
 pytest==7.2.0
 flake8==5.0.4
 gunicorn
+Werkzeug==2.3.7
